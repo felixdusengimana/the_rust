@@ -1,0 +1,12 @@
+/home/felix/Documents/learn/the_rust/guessing_game/target/debug/deps/libproc_macro2-229e251bcd88574d.rmeta: /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/lib.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/marker.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/parse.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/rcvec.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/detection.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/fallback.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/extra.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/wrapper.rs
+
+/home/felix/Documents/learn/the_rust/guessing_game/target/debug/deps/proc_macro2-229e251bcd88574d.d: /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/lib.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/marker.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/parse.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/rcvec.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/detection.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/fallback.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/extra.rs /home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/wrapper.rs
+
+/home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/lib.rs:
+/home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/marker.rs:
+/home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/parse.rs:
+/home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/rcvec.rs:
+/home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/detection.rs:
+/home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/fallback.rs:
+/home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/extra.rs:
+/home/felix/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/wrapper.rs:
