@@ -14,4 +14,7 @@ fn main() {
     // number literals with _(underscore)
     let x = 1_000_000;
     println!("The value of x is: {}", x * 2);
+
+    let x2 = if true { 1 } else { 2 };
+    println!("the value of x2 is {x2}")
 }
