@@ -3,6 +3,15 @@ enum IPAdressKind {
     V6(String),
 }
 
+impl IPAdressKind {
+    fn unwrap(&self) -> String {
+        match self {
+            IPAdressKind::V4(a, b, c, d) => format!("{}.{}.{}.{}", a, b, c, d),
+            IPAdressKind::V6(ip) => ip.to_string(),
+        }
+    }
+}
+
 fn main() {
     let four = IPAdressKind::V4(127, 0, 0, 1);
     let six = IPAdressKind::V6(String::from("::1"));
@@ -25,6 +34,6 @@ fn main() {
 }
 
 fn take_kind(kind: &IPAdressKind) {
-    println!("The ip address kind is");
+    println!("The ip address kind is: {}", kind.unwrap());
     // do other things
 }
