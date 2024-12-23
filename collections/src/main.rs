@@ -5,14 +5,14 @@ fn main() {
     // vector
     let mut v1 = vec![1, 2, 23];
 
-    let first = &v1[0];
+    // let first = &v1[0];
     v1.push(5);
     v1.push(6);
 
     // println!("v1 first {}", first);
 
     v1.pop();
-    let second: &i32 = &v1[0];
+    // let second: &i32 = &v1[0];
     v1.push(7);
     v1.push(8);
 
